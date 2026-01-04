@@ -1,0 +1,744 @@
+{
+  "source": "Numbeo",
+  "lastUpdated": "2026-01-04T22:27:16.362Z",
+  "cities": [
+    {
+      "name": "New York, NY",
+      "state": "NY",
+      "indices": {
+        "overall": 100,
+        "housing": 100,
+        "utilities": 93,
+        "groceries": 100,
+        "transportation": 89,
+        "healthcare": 87,
+        "miscellaneous": 100
+      },
+      "additionalData": {
+        "purchasingPower": 100,
+        "costPlusRent": 100
+      },
+      "lastUpdated": "2026-01-04T22:27:14.565Z"
+    },
+    {
+      "name": "San Francisco, CA",
+      "state": "CA",
+      "indices": {
+        "overall": 98.1,
+        "housing": 79.4,
+        "utilities": 92,
+        "groceries": 104.4,
+        "transportation": 88,
+        "healthcare": 82,
+        "miscellaneous": 108
+      },
+      "additionalData": {
+        "purchasingPower": 151.9,
+        "costPlusRent": 89.7
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Seattle, WA",
+      "state": "WA",
+      "indices": {
+        "overall": 90.8,
+        "housing": 61.2,
+        "utilities": 85,
+        "groceries": 98.3,
+        "transportation": 83,
+        "healthcare": 77,
+        "miscellaneous": 96
+      },
+      "additionalData": {
+        "purchasingPower": 168.1,
+        "costPlusRent": 77.4
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "San Jose, CA",
+      "state": "CA",
+      "indices": {
+        "overall": 86.8,
+        "housing": 72,
+        "utilities": 83,
+        "groceries": 90.5,
+        "transportation": 79,
+        "healthcare": 72,
+        "miscellaneous": 88
+      },
+      "additionalData": {
+        "purchasingPower": 132.9,
+        "costPlusRent": 80.1
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Boston, MA",
+      "state": "MA",
+      "indices": {
+        "overall": 86.5,
+        "housing": 77.6,
+        "utilities": 78,
+        "groceries": 91.6,
+        "transportation": 84,
+        "healthcare": 75,
+        "miscellaneous": 91
+      },
+      "additionalData": {
+        "purchasingPower": 157.1,
+        "costPlusRent": 82.5
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Oakland, CA",
+      "state": "CA",
+      "indices": {
+        "overall": 84.4,
+        "housing": 56.3,
+        "utilities": 78,
+        "groceries": 93.9,
+        "transportation": 76,
+        "healthcare": 73,
+        "miscellaneous": 94
+      },
+      "additionalData": {
+        "purchasingPower": 137.8,
+        "costPlusRent": 71.7
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "San Diego, CA",
+      "state": "CA",
+      "indices": {
+        "overall": 82.7,
+        "housing": 74,
+        "utilities": 77,
+        "groceries": 82.6,
+        "transportation": 74,
+        "healthcare": 68,
+        "miscellaneous": 84
+      },
+      "additionalData": {
+        "purchasingPower": 134.3,
+        "costPlusRent": 78.8
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Los Angeles, CA",
+      "state": "CA",
+      "indices": {
+        "overall": 82.1,
+        "housing": 64.6,
+        "utilities": 83,
+        "groceries": 87.4,
+        "transportation": 79,
+        "healthcare": 73,
+        "miscellaneous": 89
+      },
+      "additionalData": {
+        "purchasingPower": 118.3,
+        "costPlusRent": 74.2
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Miami, FL",
+      "state": "FL",
+      "indices": {
+        "overall": 80.9,
+        "housing": 67.9,
+        "utilities": 76,
+        "groceries": 85.2,
+        "transportation": 74,
+        "healthcare": 70,
+        "miscellaneous": 91
+      },
+      "additionalData": {
+        "purchasingPower": 102.8,
+        "costPlusRent": 75.1
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Sacramento, CA",
+      "state": "CA",
+      "indices": {
+        "overall": 79.6,
+        "housing": 46.5,
+        "utilities": 77,
+        "groceries": 87.4,
+        "transportation": 71,
+        "healthcare": 68,
+        "miscellaneous": 79
+      },
+      "additionalData": {
+        "purchasingPower": 131.5,
+        "costPlusRent": 64.7
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Philadelphia, PA",
+      "state": "PA",
+      "indices": {
+        "overall": 79.1,
+        "housing": 44.2,
+        "utilities": 76,
+        "groceries": 84.6,
+        "transportation": 73,
+        "healthcare": 70,
+        "miscellaneous": 81
+      },
+      "additionalData": {
+        "purchasingPower": 129.4,
+        "costPlusRent": 63.3
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Arlington, VA",
+      "state": "VA",
+      "indices": {
+        "overall": 78.5,
+        "housing": 62.3,
+        "utilities": 73,
+        "groceries": 90.3,
+        "transportation": 70,
+        "healthcare": 66,
+        "miscellaneous": 86
+      },
+      "additionalData": {
+        "purchasingPower": 173.3,
+        "costPlusRent": 71.2
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "New Orleans, LA",
+      "state": "LA",
+      "indices": {
+        "overall": 78,
+        "housing": 39.9,
+        "utilities": 73,
+        "groceries": 78,
+        "transportation": 68,
+        "healthcare": 67,
+        "miscellaneous": 90
+      },
+      "additionalData": {
+        "purchasingPower": 119.6,
+        "costPlusRent": 60.8
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Chicago, IL",
+      "state": "IL",
+      "indices": {
+        "overall": 75.9,
+        "housing": 54.7,
+        "utilities": 72,
+        "groceries": 82.2,
+        "transportation": 66,
+        "healthcare": 64,
+        "miscellaneous": 81
+      },
+      "additionalData": {
+        "purchasingPower": 153.5,
+        "costPlusRent": 66.4
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Portland, OR",
+      "state": "OR",
+      "indices": {
+        "overall": 75.9,
+        "housing": 48.3,
+        "utilities": 69,
+        "groceries": 82.1,
+        "transportation": 72,
+        "healthcare": 67,
+        "miscellaneous": 81
+      },
+      "additionalData": {
+        "purchasingPower": 151.1,
+        "costPlusRent": 63.4
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Atlanta, GA",
+      "state": "GA",
+      "indices": {
+        "overall": 75.8,
+        "housing": 43.5,
+        "utilities": 76,
+        "groceries": 84.8,
+        "transportation": 74,
+        "healthcare": 65,
+        "miscellaneous": 86
+      },
+      "additionalData": {
+        "purchasingPower": 158,
+        "costPlusRent": 61.2
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Denver, CO",
+      "state": "CO",
+      "indices": {
+        "overall": 75.6,
+        "housing": 49,
+        "utilities": 72,
+        "groceries": 82.1,
+        "transportation": 70,
+        "healthcare": 62,
+        "miscellaneous": 77
+      },
+      "additionalData": {
+        "purchasingPower": 146,
+        "costPlusRent": 63.6
+      },
+      "lastUpdated": "2026-01-04T22:27:14.566Z"
+    },
+    {
+      "name": "Dallas, TX",
+      "state": "TX",
+      "indices": {
+        "overall": 73.8,
+        "housing": 46.1,
+        "utilities": 68,
+        "groceries": 76.1,
+        "transportation": 67,
+        "healthcare": 65,
+        "miscellaneous": 73
+      },
+      "additionalData": {
+        "purchasingPower": 150.7,
+        "costPlusRent": 61.3
+      },
+      "lastUpdated": "2026-01-04T22:27:14.567Z"
+    },
+    {
+      "name": "Colorado Springs, CO",
+      "state": "CO",
+      "indices": {
+        "overall": 73.6,
+        "housing": 39.9,
+        "utilities": 74,
+        "groceries": 76.8,
+        "transportation": 70,
+        "healthcare": 64,
+        "miscellaneous": 76
+      },
+      "additionalData": {
+        "purchasingPower": 135,
+        "costPlusRent": 58.4
+      },
+      "lastUpdated": "2026-01-04T22:27:14.567Z"
+    },
+    {
+      "name": "Baltimore, MD",
+      "state": "MD",
+      "indices": {
+        "overall": 72.5,
+        "housing": 35.8,
+        "utilities": 68,
+        "groceries": 80.8,
+        "transportation": 63,
+        "healthcare": 61,
+        "miscellaneous": 75
+      },
+      "additionalData": {
+        "purchasingPower": 136.6,
+        "costPlusRent": 56
+      },
+      "lastUpdated": "2026-01-04T22:27:14.567Z"
+    },
+    {
+      "name": "Minneapolis, MN",
+      "state": "MN",
+      "indices": {
+        "overall": 72.4,
+        "housing": 38.4,
+        "utilities": 71,
+        "groceries": 83.8,
+        "transportation": 66,
+        "healthcare": 59,
+        "miscellaneous": 80
+      },
+      "additionalData": {
+        "purchasingPower": 149.3,
+        "costPlusRent": 57.1
+      },
+      "lastUpdated": "2026-01-04T22:27:14.567Z"
+    },
+    {
+      "name": "Phoenix, AZ",
+      "state": "AZ",
+      "indices": {
+        "overall": 72.3,
+        "housing": 39,
+        "utilities": 71,
+        "groceries": 75.4,
+        "transportation": 63,
+        "healthcare": 64,
+        "miscellaneous": 78
+      },
+      "additionalData": {
+        "purchasingPower": 133.8,
+        "costPlusRent": 57.3
+      },
+      "lastUpdated": "2026-01-04T22:27:14.567Z"
+    },
+    {
+      "name": "Tampa, FL",
+      "state": "FL",
+      "indices": {
+        "overall": 70.8,
+        "housing": 50.5,
+        "utilities": 64,
+        "groceries": 74.6,
+        "transportation": 69,
+        "healthcare": 62,
+        "miscellaneous": 75
+      },
+      "additionalData": {
+        "purchasingPower": 135.3,
+        "costPlusRent": 61.7
+      },
+      "lastUpdated": "2026-01-04T22:27:14.567Z"
+    },
+    {
+      "name": "Nashville, TN",
+      "state": "TN",
+      "indices": {
+        "overall": 70.4,
+        "housing": 51,
+        "utilities": 72,
+        "groceries": 75.6,
+        "transportation": 64,
+        "healthcare": 60,
+        "miscellaneous": 71
+      },
+      "additionalData": {
+        "purchasingPower": 134.5,
+        "costPlusRent": 61.6
+      },
+      "lastUpdated": "2026-01-04T22:27:14.567Z"
+    },
+    {
+      "name": "Charlotte, NC",
+      "state": "NC",
+      "indices": {
+        "overall": 70.1,
+        "housing": 44.5,
+        "utilities": 68,
+        "groceries": 79.6,
+        "transportation": 61,
+        "healthcare": 60,
+        "miscellaneous": 76
+      },
+      "additionalData": {
+        "purchasingPower": 137.4,
+        "costPlusRent": 58.5
+      },
+      "lastUpdated": "2026-01-04T22:27:14.567Z"
+    },
+    {
+      "name": "Fort Worth, TX",
+      "state": "TX",
+      "indices": {
+        "overall": 69.7,
+        "housing": 36.9,
+        "utilities": 66,
+        "groceries": 74.9,
+        "transportation": 63,
+        "healthcare": 61,
+        "miscellaneous": 71
+      },
+      "additionalData": {
+        "purchasingPower": 143.5,
+        "costPlusRent": 54.9
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Columbus, OH",
+      "state": "OH",
+      "indices": {
+        "overall": 69.4,
+        "housing": 34.7,
+        "utilities": 66,
+        "groceries": 76.2,
+        "transportation": 61,
+        "healthcare": 62,
+        "miscellaneous": 72
+      },
+      "additionalData": {
+        "purchasingPower": 137.8,
+        "costPlusRent": 53.8
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Indianapolis, IN",
+      "state": "IN",
+      "indices": {
+        "overall": 69.3,
+        "housing": 36.6,
+        "utilities": 62,
+        "groceries": 72,
+        "transportation": 62,
+        "healthcare": 61,
+        "miscellaneous": 75
+      },
+      "additionalData": {
+        "purchasingPower": 144.1,
+        "costPlusRent": 54.5
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Raleigh, NC",
+      "state": "NC",
+      "indices": {
+        "overall": 68.4,
+        "housing": 40.9,
+        "utilities": 63,
+        "groceries": 76.1,
+        "transportation": 60,
+        "healthcare": 57,
+        "miscellaneous": 75
+      },
+      "additionalData": {
+        "purchasingPower": 147.7,
+        "costPlusRent": 56
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Kansas City, MO",
+      "state": "MO",
+      "indices": {
+        "overall": 67.9,
+        "housing": 33.2,
+        "utilities": 61,
+        "groceries": 73.2,
+        "transportation": 59,
+        "healthcare": 55,
+        "miscellaneous": 76
+      },
+      "additionalData": {
+        "purchasingPower": 141.2,
+        "costPlusRent": 52.3
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Las Vegas, NV",
+      "state": "NV",
+      "indices": {
+        "overall": 67.9,
+        "housing": 37.2,
+        "utilities": 61,
+        "groceries": 66.3,
+        "transportation": 62,
+        "healthcare": 56,
+        "miscellaneous": 72
+      },
+      "additionalData": {
+        "purchasingPower": 135.1,
+        "costPlusRent": 54.1
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Oklahoma City, OK",
+      "state": "OK",
+      "indices": {
+        "overall": 67.8,
+        "housing": 27.6,
+        "utilities": 60,
+        "groceries": 68,
+        "transportation": 62,
+        "healthcare": 59,
+        "miscellaneous": 73
+      },
+      "additionalData": {
+        "purchasingPower": 139.8,
+        "costPlusRent": 49.7
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Milwaukee, WI",
+      "state": "WI",
+      "indices": {
+        "overall": 66.5,
+        "housing": 34.9,
+        "utilities": 63,
+        "groceries": 73.4,
+        "transportation": 64,
+        "healthcare": 55,
+        "miscellaneous": 71
+      },
+      "additionalData": {
+        "purchasingPower": 137.2,
+        "costPlusRent": 52.2
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Austin, TX",
+      "state": "TX",
+      "indices": {
+        "overall": 66.4,
+        "housing": 49.7,
+        "utilities": 61,
+        "groceries": 69,
+        "transportation": 62,
+        "healthcare": 56,
+        "miscellaneous": 70
+      },
+      "additionalData": {
+        "purchasingPower": 157.5,
+        "costPlusRent": 58.9
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Jacksonville, FL",
+      "state": "FL",
+      "indices": {
+        "overall": 65.6,
+        "housing": 34.4,
+        "utilities": 66,
+        "groceries": 68.9,
+        "transportation": 59,
+        "healthcare": 58,
+        "miscellaneous": 73
+      },
+      "additionalData": {
+        "purchasingPower": 139.9,
+        "costPlusRent": 51.5
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Wichita, KS",
+      "state": "KS",
+      "indices": {
+        "overall": 65.4,
+        "housing": 24.8,
+        "utilities": 63,
+        "groceries": 73.3,
+        "transportation": 63,
+        "healthcare": 58,
+        "miscellaneous": 66
+      },
+      "additionalData": {
+        "purchasingPower": 144.6,
+        "costPlusRent": 47.1
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Tulsa, OK",
+      "state": "OK",
+      "indices": {
+        "overall": 65.3,
+        "housing": 25.8,
+        "utilities": 61,
+        "groceries": 71.9,
+        "transportation": 59,
+        "healthcare": 54,
+        "miscellaneous": 66
+      },
+      "additionalData": {
+        "purchasingPower": 134.8,
+        "costPlusRent": 47.5
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Houston, TX",
+      "state": "TX",
+      "indices": {
+        "overall": 64.6,
+        "housing": 41.8,
+        "utilities": 61,
+        "groceries": 66.6,
+        "transportation": 56,
+        "healthcare": 55,
+        "miscellaneous": 71
+      },
+      "additionalData": {
+        "purchasingPower": 160.9,
+        "costPlusRent": 54.3
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "San Antonio, TX",
+      "state": "TX",
+      "indices": {
+        "overall": 64.3,
+        "housing": 36.4,
+        "utilities": 62,
+        "groceries": 67.7,
+        "transportation": 62,
+        "healthcare": 53,
+        "miscellaneous": 66
+      },
+      "additionalData": {
+        "purchasingPower": 151.1,
+        "costPlusRent": 51.7
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Tucson, AZ",
+      "state": "AZ",
+      "indices": {
+        "overall": 64.3,
+        "housing": 30.8,
+        "utilities": 57,
+        "groceries": 68.9,
+        "transportation": 61,
+        "healthcare": 52,
+        "miscellaneous": 70
+      },
+      "additionalData": {
+        "purchasingPower": 141.5,
+        "costPlusRent": 49.2
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    },
+    {
+      "name": "Albuquerque, NM",
+      "state": "NM",
+      "indices": {
+        "overall": 62.4,
+        "housing": 32.6,
+        "utilities": 59,
+        "groceries": 71.8,
+        "transportation": 54,
+        "healthcare": 52,
+        "miscellaneous": 70
+      },
+      "additionalData": {
+        "purchasingPower": 150.2,
+        "costPlusRent": 49
+      },
+      "lastUpdated": "2026-01-04T22:27:14.568Z"
+    }
+  ]
+}

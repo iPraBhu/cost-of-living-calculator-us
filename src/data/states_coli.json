@@ -1,0 +1,1131 @@
+{
+  "meta": {
+    "source": "Missouri Economic Research and Information Center (MERIC) - Cost of Living Data Series + Additional Economic Data",
+    "lastUpdated": "2025-11-01",
+    "note": "Cost of living data from MERIC Q3 2025. Additional economic indicators from various sources (2024 tax rates, 2023 median income, current unemployment). Indices are relative to national average (100). MERIC derives state indices by averaging participating cities/metropolitan areas. Source: https://meric.mo.gov/data/cost-living-data-series. Data is free to use with attribution."
+  },
+  "states": [
+    {
+      "code": "OK",
+      "name": "Oklahoma",
+      "indices": {
+        "overall": 84.4,
+        "housing": 67.9,
+        "utilities": 98.6,
+        "groceries": 94.7,
+        "transportation": 87.7,
+        "healthcare": 93.1,
+        "miscellaneous": 87.9
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 4.75,
+          "propertyTax": 0.9,
+          "salesTax": 4.5
+        },
+        "medianIncome": 56568,
+        "unemploymentRate": 3.2
+      }
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi",
+      "indices": {
+        "overall": 85.5,
+        "housing": 70.2,
+        "utilities": 88.9,
+        "groceries": 94.3,
+        "transportation": 86.9,
+        "healthcare": 93.6,
+        "miscellaneous": 91.7
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 5,
+          "propertyTax": 0.81,
+          "salesTax": 7
+        },
+        "medianIncome": 48843,
+        "unemploymentRate": 2.8
+      }
+    },
+    {
+      "code": "AL",
+      "name": "Alabama",
+      "indices": {
+        "overall": 87.9,
+        "housing": 71.1,
+        "utilities": 97.1,
+        "groceries": 97.7,
+        "transportation": 88.5,
+        "healthcare": 88.6,
+        "miscellaneous": 94.8
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 5,
+          "propertyTax": 0.41,
+          "salesTax": 4
+        },
+        "medianIncome": 53958,
+        "unemploymentRate": 2.6
+      }
+    },
+    {
+      "code": "WV",
+      "name": "West Virginia",
+      "indices": {
+        "overall": 88.1,
+        "housing": 70.8,
+        "utilities": 89.2,
+        "groceries": 96.1,
+        "transportation": 97.7,
+        "healthcare": 91.1,
+        "miscellaneous": 95.8
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 3,
+          "propertyTax": 0.58,
+          "salesTax": 6
+        },
+        "medianIncome": 48831,
+        "unemploymentRate": 4
+      }
+    },
+    {
+      "code": "KS",
+      "name": "Kansas",
+      "indices": {
+        "overall": 88.9,
+        "housing": 77.5,
+        "utilities": 97.7,
+        "groceries": 95.5,
+        "transportation": 92.3,
+        "healthcare": 93.2,
+        "miscellaneous": 91.6
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 4.5,
+          "propertyTax": 1.41,
+          "salesTax": 6.5
+        },
+        "medianIncome": 63938,
+        "unemploymentRate": 2.9
+      }
+    },
+    {
+      "code": "MO",
+      "name": "Missouri",
+      "indices": {
+        "overall": 89,
+        "housing": 77.8,
+        "utilities": 91.3,
+        "groceries": 95.2,
+        "transportation": 85.9,
+        "healthcare": 96.6,
+        "miscellaneous": 94.8
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 5.4,
+          "propertyTax": 0.97,
+          "salesTax": 4.225
+        },
+        "medianIncome": 61720,
+        "unemploymentRate": 2.3
+      }
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas",
+      "indices": {
+        "overall": 89.3,
+        "housing": 77.9,
+        "utilities": 95.7,
+        "groceries": 92.3,
+        "transportation": 88.6,
+        "healthcare": 85.8,
+        "miscellaneous": 96.4
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 4.9,
+          "propertyTax": 0.62,
+          "salesTax": 6.5
+        },
+        "medianIncome": 52525,
+        "unemploymentRate": 3.1
+      }
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee",
+      "indices": {
+        "overall": 90.3,
+        "housing": 83,
+        "utilities": 87.7,
+        "groceries": 96.8,
+        "transportation": 87.6,
+        "healthcare": 87.7,
+        "miscellaneous": 95.2
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 0,
+          "propertyTax": 0.71,
+          "salesTax": 7
+        },
+        "medianIncome": 59787,
+        "unemploymentRate": 2.9
+      }
+    },
+    {
+      "code": "IA",
+      "name": "Iowa",
+      "indices": {
+        "overall": 90.3,
+        "housing": 77.2,
+        "utilities": 87.2,
+        "groceries": 97.9,
+        "transportation": 101.3,
+        "healthcare": 96.7,
+        "miscellaneous": 94.9
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 6,
+          "propertyTax": 1.57,
+          "salesTax": 6
+        },
+        "medianIncome": 66621,
+        "unemploymentRate": 2.8
+      }
+    },
+    {
+      "code": "IN",
+      "name": "Indiana",
+      "indices": {
+        "overall": 90.6,
+        "housing": 76.2,
+        "utilities": 96.1,
+        "groceries": 99.7,
+        "transportation": 98.6,
+        "healthcare": 100.7,
+        "miscellaneous": 93.6
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 3.23,
+          "propertyTax": 0.85,
+          "salesTax": 7
+        },
+        "medianIncome": 64172,
+        "unemploymentRate": 3.4
+      }
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "indices": {
+        "overall": 90.8,
+        "housing": 78.7,
+        "utilities": 101.9,
+        "groceries": 94.6,
+        "transportation": 92.5,
+        "healthcare": 96.1,
+        "miscellaneous": 95.2
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 0,
+          "propertyTax": 1.8,
+          "salesTax": 6.25
+        },
+        "medianIncome": 67444,
+        "unemploymentRate": 3.5
+      }
+    },
+    {
+      "code": "ND",
+      "name": "North Dakota",
+      "indices": {
+        "overall": 91.3,
+        "housing": 76.5,
+        "utilities": 81.1,
+        "groceries": 94.3,
+        "transportation": 98.5,
+        "healthcare": 109.2,
+        "miscellaneous": 100.4
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 2.9,
+          "propertyTax": 0.98,
+          "salesTax": 5
+        },
+        "medianIncome": 66699,
+        "unemploymentRate": 2.2
+      }
+    },
+    {
+      "code": "NE",
+      "name": "Nebraska",
+      "indices": {
+        "overall": 91.6,
+        "housing": 79,
+        "utilities": 88.9,
+        "groceries": 98.2,
+        "transportation": 91.7,
+        "healthcare": 100.9,
+        "miscellaneous": 98.4
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 6.84,
+          "propertyTax": 1.73,
+          "salesTax": 5.5
+        },
+        "medianIncome": 67599,
+        "unemploymentRate": 2.7
+      }
+    },
+    {
+      "code": "SD",
+      "name": "South Dakota",
+      "indices": {
+        "overall": 91.8,
+        "housing": 84.9,
+        "utilities": 85.8,
+        "groceries": 97.2,
+        "transportation": 95.2,
+        "healthcare": 110.1,
+        "miscellaneous": 93.1
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 0,
+          "propertyTax": 1.31,
+          "salesTax": 4.5
+        },
+        "medianIncome": 66641,
+        "unemploymentRate": 2.1
+      }
+    },
+    {
+      "code": "GA",
+      "name": "Georgia",
+      "indices": {
+        "overall": 91.8,
+        "housing": 78.8,
+        "utilities": 99.5,
+        "groceries": 97.8,
+        "transportation": 94,
+        "healthcare": 97.2,
+        "miscellaneous": 96.7
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 5.75,
+          "propertyTax": 0.89,
+          "salesTax": 4
+        },
+        "medianIncome": 65251,
+        "unemploymentRate": 3.1
+      }
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky",
+      "indices": {
+        "overall": 91.9,
+        "housing": 75,
+        "utilities": 88.4,
+        "groceries": 99.7,
+        "transportation": 96.6,
+        "healthcare": 92.9,
+        "miscellaneous": 102
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 4.5,
+          "propertyTax": 0.86,
+          "salesTax": 6
+        },
+        "medianIncome": 55453,
+        "unemploymentRate": 4
+      }
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico",
+      "indices": {
+        "overall": 92.5,
+        "housing": 85.6,
+        "utilities": 83.7,
+        "groceries": 96.4,
+        "transportation": 92.3,
+        "healthcare": 101.4,
+        "miscellaneous": 97.4
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 5.9,
+          "propertyTax": 0.8,
+          "salesTax": 5.125
+        },
+        "medianIncome": 54665,
+        "unemploymentRate": 3.5
+      }
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina",
+      "indices": {
+        "overall": 92.5,
+        "housing": 79.8,
+        "utilities": 96,
+        "groceries": 100,
+        "transportation": 95.5,
+        "healthcare": 93.2,
+        "miscellaneous": 98.1
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 7,
+          "propertyTax": 0.57,
+          "salesTax": 6
+        },
+        "medianIncome": 59377,
+        "unemploymentRate": 2.9
+      }
+    },
+    {
+      "code": "LA",
+      "name": "Louisiana",
+      "indices": {
+        "overall": 92.7,
+        "housing": 84.1,
+        "utilities": 84.8,
+        "groceries": 95.9,
+        "transportation": 96,
+        "healthcare": 92.3,
+        "miscellaneous": 99.5
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 4.25,
+          "propertyTax": 0.55,
+          "salesTax": 4.45
+        },
+        "medianIncome": 53562,
+        "unemploymentRate": 3.4
+      }
+    },
+    {
+      "code": "OH",
+      "name": "Ohio",
+      "indices": {
+        "overall": 92.8,
+        "housing": 84.4,
+        "utilities": 100.3,
+        "groceries": 98.7,
+        "transportation": 93.2,
+        "healthcare": 90.7,
+        "miscellaneous": 95.5
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 3.99,
+          "propertyTax": 1.56,
+          "salesTax": 5.75
+        },
+        "medianIncome": 62554,
+        "unemploymentRate": 3.8
+      }
+    },
+    {
+      "code": "MN",
+      "name": "Minnesota",
+      "indices": {
+        "overall": 94.2,
+        "housing": 80.6,
+        "utilities": 96.1,
+        "groceries": 100.5,
+        "transportation": 96.6,
+        "healthcare": 103.9,
+        "miscellaneous": 100.1
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 5.35,
+          "propertyTax": 1.12,
+          "salesTax": 6.875
+        },
+        "medianIncome": 77606,
+        "unemploymentRate": 2.7
+      }
+    },
+    {
+      "code": "MI",
+      "name": "Michigan",
+      "indices": {
+        "overall": 94.7,
+        "housing": 85.4,
+        "utilities": 97,
+        "groceries": 99.1,
+        "transportation": 98.9,
+        "healthcare": 97.7,
+        "miscellaneous": 98.4
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 4.25,
+          "propertyTax": 1.54,
+          "salesTax": 6
+        },
+        "medianIncome": 63201,
+        "unemploymentRate": 3.9
+      }
+    },
+    {
+      "code": "WY",
+      "name": "Wyoming",
+      "indices": {
+        "overall": 95.3,
+        "housing": 87.2,
+        "utilities": 101.3,
+        "groceries": 99.8,
+        "transportation": 93.3,
+        "healthcare": 101.3,
+        "miscellaneous": 98.2
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 0,
+          "propertyTax": 0.61,
+          "salesTax": 4
+        },
+        "medianIncome": 67240,
+        "unemploymentRate": 2.7
+      }
+    },
+    {
+      "code": "IL",
+      "name": "Illinois",
+      "indices": {
+        "overall": 95.9,
+        "housing": 84.9,
+        "utilities": 100.2,
+        "groceries": 100.9,
+        "transportation": 103.8,
+        "healthcare": 102,
+        "miscellaneous": 99.1
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 4.95,
+          "propertyTax": 2.27,
+          "salesTax": 6.25
+        },
+        "medianIncome": 76195,
+        "unemploymentRate": 4.2
+      }
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "indices": {
+        "overall": 97.1,
+        "housing": 87,
+        "utilities": 108.8,
+        "groceries": 100,
+        "transportation": 104.3,
+        "healthcare": 94.4,
+        "miscellaneous": 99.7
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 3.07,
+          "propertyTax": 1.58,
+          "salesTax": 6
+        },
+        "medianIncome": 68393,
+        "unemploymentRate": 3.1
+      }
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina",
+      "indices": {
+        "overall": 97.4,
+        "housing": 92.2,
+        "utilities": 94.4,
+        "groceries": 100.3,
+        "transportation": 93.2,
+        "healthcare": 107.1,
+        "miscellaneous": 101
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 5.25,
+          "propertyTax": 0.84,
+          "salesTax": 4.75
+        },
+        "medianIncome": 61154,
+        "unemploymentRate": 3.3
+      }
+    },
+    {
+      "code": "WI",
+      "name": "Wisconsin",
+      "indices": {
+        "overall": 97.7,
+        "housing": 97.8,
+        "utilities": 89.2,
+        "groceries": 100.1,
+        "transportation": 97.4,
+        "healthcare": 102.3,
+        "miscellaneous": 98.2
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 7.65,
+          "propertyTax": 1.85,
+          "salesTax": 5
+        },
+        "medianIncome": 67355,
+        "unemploymentRate": 2.9
+      }
+    },
+    {
+      "code": "NV",
+      "name": "Nevada",
+      "indices": {
+        "overall": 98.6,
+        "housing": 108,
+        "utilities": 82.8,
+        "groceries": 101.8,
+        "transportation": 117.1,
+        "healthcare": 89.5,
+        "miscellaneous": 89.8
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 0,
+          "propertyTax": 0.55,
+          "salesTax": 6.85
+        },
+        "medianIncome": 65874,
+        "unemploymentRate": 5.4
+      }
+    },
+    {
+      "code": "ID",
+      "name": "Idaho",
+      "indices": {
+        "overall": 99,
+        "housing": 102.3,
+        "utilities": 70.5,
+        "groceries": 96.9,
+        "transportation": 109.2,
+        "healthcare": 105,
+        "miscellaneous": 100.6
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 6.5,
+          "propertyTax": 0.69,
+          "salesTax": 6
+        },
+        "medianIncome": 65988,
+        "unemploymentRate": 2.8
+      }
+    },
+    {
+      "code": "UT",
+      "name": "Utah",
+      "indices": {
+        "overall": 99.1,
+        "housing": 107.6,
+        "utilities": 82.7,
+        "groceries": 95.7,
+        "transportation": 104.7,
+        "healthcare": 89.7,
+        "miscellaneous": 97.5
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 4.95,
+          "propertyTax": 0.63,
+          "salesTax": 6.1
+        },
+        "medianIncome": 84540,
+        "unemploymentRate": 2.8
+      }
+    },
+    {
+      "code": "FL",
+      "name": "Florida",
+      "indices": {
+        "overall": 99.5,
+        "housing": 99.1,
+        "utilities": 96.6,
+        "groceries": 105.7,
+        "transportation": 94.9,
+        "healthcare": 94,
+        "miscellaneous": 99.7
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 0,
+          "propertyTax": 0.89,
+          "salesTax": 6
+        },
+        "medianIncome": 63274,
+        "unemploymentRate": 3
+      }
+    },
+    {
+      "code": "VA",
+      "name": "Virginia",
+      "indices": {
+        "overall": 100.1,
+        "housing": 99.7,
+        "utilities": 98.4,
+        "groceries": 100.6,
+        "transportation": 99.2,
+        "healthcare": 103.9,
+        "miscellaneous": 100.3
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 5.75,
+          "propertyTax": 0.82,
+          "salesTax": 5.3
+        },
+        "medianIncome": 80216,
+        "unemploymentRate": 2.6
+      }
+    },
+    {
+      "code": "CO",
+      "name": "Colorado",
+      "indices": {
+        "overall": 102.7,
+        "housing": 106.8,
+        "utilities": 87.8,
+        "groceries": 100.9,
+        "transportation": 97.9,
+        "healthcare": 105.4,
+        "miscellaneous": 104.4
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 4.55,
+          "propertyTax": 0.51,
+          "salesTax": 2.9
+        },
+        "medianIncome": 84438,
+        "unemploymentRate": 3.2
+      }
+    },
+    {
+      "code": "DE",
+      "name": "Delaware",
+      "indices": {
+        "overall": 102.8,
+        "housing": 102.1,
+        "utilities": 97.1,
+        "groceries": 103.8,
+        "transportation": 100,
+        "healthcare": 103.3,
+        "miscellaneous": 104.8
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 6.6,
+          "propertyTax": 0.57,
+          "salesTax": 0
+        },
+        "medianIncome": 74165,
+        "unemploymentRate": 3.8
+      }
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona",
+      "indices": {
+        "overall": 108.8,
+        "housing": 125.3,
+        "utilities": 101.2,
+        "groceries": 100.4,
+        "transportation": 100.2,
+        "healthcare": 93.6,
+        "miscellaneous": 105.2
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 2.59,
+          "propertyTax": 0.72,
+          "salesTax": 5.6
+        },
+        "medianIncome": 65860,
+        "unemploymentRate": 3.9
+      }
+    },
+    {
+      "code": "NH",
+      "name": "New Hampshire",
+      "indices": {
+        "overall": 109.2,
+        "housing": 113.9,
+        "utilities": 113,
+        "groceries": 99.8,
+        "transportation": 103.8,
+        "healthcare": 106.1,
+        "miscellaneous": 110.4
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 5,
+          "propertyTax": 2.18,
+          "salesTax": 0
+        },
+        "medianIncome": 86825,
+        "unemploymentRate": 2.4
+      }
+    },
+    {
+      "code": "MT",
+      "name": "Montana",
+      "indices": {
+        "overall": 109.8,
+        "housing": 123.3,
+        "utilities": 83.6,
+        "groceries": 100.2,
+        "transportation": 106,
+        "healthcare": 111.4,
+        "miscellaneous": 110.2
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 6.75,
+          "propertyTax": 0.84,
+          "salesTax": 0
+        },
+        "medianIncome": 62566,
+        "unemploymentRate": 2.9
+      }
+    },
+    {
+      "code": "OR",
+      "name": "Oregon",
+      "indices": {
+        "overall": 111.8,
+        "housing": 122.4,
+        "utilities": 96.6,
+        "groceries": 106.7,
+        "transportation": 126.3,
+        "healthcare": 116.5,
+        "miscellaneous": 104.6
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 9.9,
+          "propertyTax": 0.97,
+          "salesTax": 0
+        },
+        "medianIncome": 72269,
+        "unemploymentRate": 3.7
+      }
+    },
+    {
+      "code": "RI",
+      "name": "Rhode Island",
+      "indices": {
+        "overall": 113.4,
+        "housing": 120.4,
+        "utilities": 127.8,
+        "groceries": 105.6,
+        "transportation": 102.5,
+        "healthcare": 103.5,
+        "miscellaneous": 111.8
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 5.99,
+          "propertyTax": 1.63,
+          "salesTax": 7
+        },
+        "medianIncome": 75250,
+        "unemploymentRate": 4
+      }
+    },
+    {
+      "code": "VT",
+      "name": "Vermont",
+      "indices": {
+        "overall": 113.7,
+        "housing": 128.7,
+        "utilities": 113.4,
+        "groceries": 107.6,
+        "transportation": 104.1,
+        "healthcare": 113,
+        "miscellaneous": 106.7
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 8.75,
+          "propertyTax": 1.9,
+          "salesTax": 6
+        },
+        "medianIncome": 72617,
+        "unemploymentRate": 2.4
+      }
+    },
+    {
+      "code": "WA",
+      "name": "Washington",
+      "indices": {
+        "overall": 113.9,
+        "housing": 120.1,
+        "utilities": 99.5,
+        "groceries": 106.5,
+        "transportation": 130.4,
+        "healthcare": 114.1,
+        "miscellaneous": 111.3
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 0,
+          "propertyTax": 0.79,
+          "salesTax": 6.5
+        },
+        "medianIncome": 82454,
+        "unemploymentRate": 4
+      }
+    },
+    {
+      "code": "CT",
+      "name": "Connecticut",
+      "indices": {
+        "overall": 114.1,
+        "housing": 124.1,
+        "utilities": 125,
+        "groceries": 107,
+        "transportation": 103.9,
+        "healthcare": 113.4,
+        "miscellaneous": 109.1
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 6.99,
+          "propertyTax": 2.14,
+          "salesTax": 6.35
+        },
+        "medianIncome": 87623,
+        "unemploymentRate": 3.5
+      }
+    },
+    {
+      "code": "ME",
+      "name": "Maine",
+      "indices": {
+        "overall": 114.2,
+        "housing": 139.6,
+        "utilities": 119.4,
+        "groceries": 102.4,
+        "transportation": 102.1,
+        "healthcare": 114.9,
+        "miscellaneous": 100.4
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 7.15,
+          "propertyTax": 1.36,
+          "salesTax": 5.5
+        },
+        "medianIncome": 65136,
+        "unemploymentRate": 3
+      }
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey",
+      "indices": {
+        "overall": 114.6,
+        "housing": 139.6,
+        "utilities": 102.1,
+        "groceries": 104.4,
+        "transportation": 103.9,
+        "healthcare": 113.7,
+        "miscellaneous": 104.4
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 10.75,
+          "propertyTax": 2.47,
+          "salesTax": 6.625
+        },
+        "medianIncome": 89616,
+        "unemploymentRate": 4
+      }
+    },
+    {
+      "code": "MD",
+      "name": "Maryland",
+      "indices": {
+        "overall": 118.9,
+        "housing": 147.5,
+        "utilities": 113.4,
+        "groceries": 107,
+        "transportation": 100,
+        "healthcare": 108.2,
+        "miscellaneous": 108.3
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 5.75,
+          "propertyTax": 1.09,
+          "salesTax": 6
+        },
+        "medianIncome": 92633,
+        "unemploymentRate": 2.5
+      }
+    },
+    {
+      "code": "NY",
+      "name": "New York",
+      "indices": {
+        "overall": 126.6,
+        "housing": 178.6,
+        "utilities": 104.4,
+        "groceries": 103.5,
+        "transportation": 105.8,
+        "healthcare": 112.9,
+        "miscellaneous": 106.7
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 10.9,
+          "propertyTax": 1.73,
+          "salesTax": 4
+        },
+        "medianIncome": 72043,
+        "unemploymentRate": 4.1
+      }
+    },
+    {
+      "code": "AK",
+      "name": "Alaska",
+      "indices": {
+        "overall": 127.7,
+        "housing": 126.1,
+        "utilities": 155.5,
+        "groceries": 124.4,
+        "transportation": 120,
+        "healthcare": 142.6,
+        "miscellaneous": 123.8
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 0,
+          "propertyTax": 1.19,
+          "salesTax": 0
+        },
+        "medianIncome": 80233,
+        "unemploymentRate": 4.2
+      }
+    },
+    {
+      "code": "DC",
+      "name": "District of Columbia",
+      "indices": {
+        "overall": 135.2,
+        "housing": 199.4,
+        "utilities": 104.6,
+        "groceries": 106.5,
+        "transportation": 103.6,
+        "healthcare": 122.8,
+        "miscellaneous": 112.2
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 10.75,
+          "propertyTax": 0.56,
+          "salesTax": 6
+        },
+        "medianIncome": 101030,
+        "unemploymentRate": 4.7
+      }
+    },
+    {
+      "code": "CA",
+      "name": "California",
+      "indices": {
+        "overall": 136.7,
+        "housing": 181.8,
+        "utilities": 144.9,
+        "groceries": 107.5,
+        "transportation": 136.2,
+        "healthcare": 104.1,
+        "miscellaneous": 115.3
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 13.3,
+          "propertyTax": 0.76,
+          "salesTax": 6
+        },
+        "medianIncome": 84398,
+        "unemploymentRate": 4.8
+      }
+    },
+    {
+      "code": "MA",
+      "name": "Massachusetts",
+      "indices": {
+        "overall": 150.8,
+        "housing": 232.9,
+        "utilities": 155.4,
+        "groceries": 102.4,
+        "transportation": 105.9,
+        "healthcare": 133.9,
+        "miscellaneous": 117.3
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 9,
+          "propertyTax": 1.23,
+          "salesTax": 6.25
+        },
+        "medianIncome": 91777,
+        "unemploymentRate": 3.1
+      }
+    },
+    {
+      "code": "HI",
+      "name": "Hawaii",
+      "indices": {
+        "overall": 179.7,
+        "housing": 298.6,
+        "utilities": 185.3,
+        "groceries": 130.5,
+        "transportation": 137.8,
+        "healthcare": 128.1,
+        "miscellaneous": 120.1
+      },
+      "additionalData": {
+        "taxes": {
+          "incomeTax": 11,
+          "propertyTax": 0.28,
+          "salesTax": 4
+        },
+        "medianIncome": 88427,
+        "unemploymentRate": 3
+      }
+    }
+  ]
+}
