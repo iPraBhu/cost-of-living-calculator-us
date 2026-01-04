@@ -26,18 +26,23 @@ function App() {
   // Initialize state from URL params or defaults
   const initialParams = parseQueryParams(validStateCodes); // Use state codes for initial parsing
   
-  const [selectedCodes, setSelectedCodes] = useState<string[]>(
+  const [selectedStateCodes, setSelectedStateCodes] = useState<string[]>(
     initialParams?.states || ['CA', 'TX']
+  );
+  const [selectedCityNames, setSelectedCityNames] = useState<string[]>(
+    ['Los Angeles, CA', 'New York, NY'] // Default cities
   );
   const [income, setIncome] = useState<number>(
     initialParams?.income || 100000
   );
   const [baselineCode, setBaselineCode] = useState<string>(
-    initialParams?.base || selectedCodes[0] || 'CA'
+    initialParams?.base || selectedStateCodes[0] || 'CA'
   );
   const [shareMessage, setShareMessage] = useState<string>('');
 
-  // Update location type from URL params
+  // Current selected locations based on type
+  const selectedCodes = locationType === 'state' ? selectedStateCodes : selectedCityNames;
+  const setSelectedCodes = locationType === 'state' ? setSelectedStateCodes : setSelectedCityNames;
   useEffect(() => {
     if (initialParams?.type) {
       setLocationType(initialParams.type);
@@ -138,8 +143,8 @@ function App() {
             ) : (
               <CityMultiSelect
                 cities={allCities}
-                selectedNames={selectedCodes}
-                onChange={setSelectedCodes}
+                selectedNames={selectedCityNames}
+                onChange={setSelectedCityNames}
               />
             )}
           </div>
